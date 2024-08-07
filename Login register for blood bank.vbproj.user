@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About Us.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add new donor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Blood Request.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="blood stock details with barcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Blood_stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Certificate generator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboard_form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Doctor Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Donation eligibility conditions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Donor registration rejected.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Eligible form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Entrance page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="For medical users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report of donated blood details.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="splash screen loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
